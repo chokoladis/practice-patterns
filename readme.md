@@ -2,3 +2,6 @@
 - singelton / multiton
 - factory
 - strategy
+- adapter
+- decorator
+- facade
